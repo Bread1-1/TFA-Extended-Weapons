@@ -40,7 +40,7 @@ SWEP.Primary.KickUp			= .2				-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0		-- Maximum down recoil (skeet)
 SWEP.Primary.KickHorizontal			= 0.1	-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= false		-- Automatic/Semi Auto
-SWEP.Primary.Ammo			= "AirboatGun"	-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
+SWEP.Primary.Ammo			= "pistol"	-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
 SWEP.Primary.Range = 18500 -- The distance the bullet can travel in source units.  Set to -1 to autodetect based on damage/rpm.
 SWEP.Primary.RangeFalloff = -1 -- The percentage of the range the bullet damage starts to fall off at.  Set to 0.8, for example, to start falling off after 80% of the range.
 
