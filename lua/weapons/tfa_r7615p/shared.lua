@@ -1,3 +1,4 @@
+-- This is a work in progress and is far from complete.
 -- Variables that are used on both client and server
 SWEP.Gun = ("tfa_r7615p") -- must be the name of your swep but NO CAPITALS!
 
